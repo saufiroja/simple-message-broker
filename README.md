@@ -40,7 +40,7 @@ In this repository, will implement simple message broker using Apache Kafka and 
 - Clone this repository
 
 ```bash
-git clone
+git clone https://github.com/saufiroja/simple-message-broker.git
 ```
 
 - Run docker compose
