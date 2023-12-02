@@ -7,6 +7,12 @@
 Message broker is a software that acts as an intermediary in delivering messages to different applications or services. In a distributed network architecture, message brokers facilitate communication between multiple systems and applications by receiving messages from the sender and forwarding them to the intended recipient, or can be referred to as pub/sub.
 
 Some popular examples of message brokers are **Apache Kafka** and **RabbitMQ.**
+</br>
+</br>
+
+### Why do we use a message broker?
+
+Actually, the application can run smoothly. We can see a sample application schema without using a message broker.
 
 <div align="center" style="background-color: white; padding: 20px;">
   <img src="./image/example1.png" alt="Plot">
@@ -35,7 +41,7 @@ In this repository, will implement simple message broker using Apache Kafka and 
 - Docker
 - Docker Compose
 
-# HOW TO RUN
+# USAGE
 
 - Clone this repository
 
